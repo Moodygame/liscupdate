@@ -2,9 +2,7 @@
     "latest_version": "1.1.0",
     "update_notes": "Bu güncelleme, script.rpy dosyasında bazı iyileştirmeler içeriyor:\n\n- Diyalog hataları düzeltildi\n- Bazı yeni diyaloglar eklendi\n- Performans iyileştirmeleri yapıldı",
     "download_url": "",
-    "modified_files": [
-        "game/script.rpy"
-    ],
+    "modified_files": ["game/script.rpy"],
     "file_ids": {
         "game/script.rpy": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF"
     },
