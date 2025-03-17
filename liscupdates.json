@@ -1,0 +1,25 @@
+{
+    "latest_version": "1.1.0",
+    "update_notes": "Bu güncelleme, script.rpy dosyasında bazı iyileştirmeler içeriyor:\n\n- Diyalog hataları düzeltildi\n- Bazı yeni diyaloglar eklendi\n- Performans iyileştirmeleri yapıldı",
+    "download_url": "",
+    "modified_files": [
+        "game/script.rpy"
+    ],
+    "file_ids": {
+        "game/script.rpy": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF"
+    },
+    "download_sources": {
+        "gdrive": "https://drive.google.com/uc?export=download&id=",
+        "mega": "https://mega.nz/file/",
+        "dropbox": "https://www.dropbox.com/scl/fi/",
+        "github": "https://raw.githubusercontent.com/Moodygame/liscupdate/main/files/"
+    },
+    "file_source_order": ["gdrive", "dropbox", "mega", "github"],
+    "file_source_map": {
+        "game/script.rpy": {
+            "gdrive": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
+            "mega": "RuonBSha#dWPSpQNP__KkjvfI8aQ39KU0uMmpJNxbrKqej3bJ2X4",
+            "dropbox": "fx4wvgsnrabs01wdqdb8v/script.rpy?rlkey=c3271fo70tnhsued0ksl97f48&dl=1"
+        }
+    }
+}
