@@ -12,9 +12,9 @@
   "file_source_order": ["gdrive", "dropbox", "mega", "github"],
   "file_source_map": {
     "game/script.rpy": {
-      "gdrive": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
-      "mega": "RuonBSha#dWPSpQNP__KkjvfI8aQ39KU0uMmpJNxbrKqej3bJ2X4",
-      "dropbox": "fx4wvgsnrabs01wdqdb8v/script.rpy?rlkey=c3271fo70tnhsued0ksl97f48&dl=1",
+      "gdrive": "1BwbQlSo_XX5GHv_PXUXbFaa4pOOMaBK3",
+      "mega": "dvZhyJQI#X1ryaXBSbHOLv9x_D1fSASUV-xW9iQCMtzZQwa0rdv0",
+      "dropbox": "fl1lxioo53dyqjq9gjxi6/script.rpy?rlkey=xkdqmf5xu1hl754n4nadc7d62&st=a8g8z26z&dl=1",
       "github": "script.rpy"
     },
     "game/myconfig.rpy": {
