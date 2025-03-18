@@ -2,9 +2,10 @@
     "latest_version": "1.1.0",
     "update_notes": "Bu güncelleme, script.rpy dosyasında bazı iyileştirmeler içeriyor:\n\n- Diyalog hataları düzeltildi\n- Bazı yeni diyaloglar eklendi\n- Performans iyileştirmeleri yapıldı",
     "download_url": "",
-    "modified_files": ["game/script.rpy"],
+    "modified_files": ["game/script.rpy", "game/myconfig.rpy"],
     "file_ids": {
         "game/script.rpy": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF"
+        "game/myconfig.rpy": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF"
     },
     "download_sources": {
         "gdrive": "https://drive.google.com/uc?export=download&id=",
@@ -18,6 +19,10 @@
             "gdrive": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
             "mega": "RuonBSha#dWPSpQNP__KkjvfI8aQ39KU0uMmpJNxbrKqej3bJ2X4",
             "dropbox": "fx4wvgsnrabs01wdqdb8v/script.rpy?rlkey=c3271fo70tnhsued0ksl97f48&dl=1"
+        },
+        "game/myconfig.rpy": {
+            "mega": "BnpzgZwa#LqxA6aVVi3WH1QyeHZY5OE4o7cbj3ltSUtUexKIR49g",
+            "dropbox": "qki6b744dnlruqnjcc2pa/myconfig.rpy?rlkey=rx6feznvoamr9se5nnfjtxn87&st=0wja46ao&dl=1"
         }
     }
 }
