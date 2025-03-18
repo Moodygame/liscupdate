@@ -21,8 +21,10 @@
             "dropbox": "fx4wvgsnrabs01wdqdb8v/script.rpy?rlkey=c3271fo70tnhsued0ksl97f48&dl=1"
         },
         "game/myconfig.rpy": {
+            "gdrive": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
             "mega": "BnpzgZwa#LqxA6aVVi3WH1QyeHZY5OE4o7cbj3ltSUtUexKIR49g",
-            "dropbox": "qki6b744dnlruqnjcc2pa/myconfig.rpy?rlkey=rx6feznvoamr9se5nnfjtxn87&st=0wja46ao&dl=1"
+            "dropbox": "qki6b744dnlruqnjcc2pa/myconfig.rpy?rlkey=rx6feznvoamr9se5nnfjtxn87&st=0wja46ao&dl=1",
+            "github": "myconfig.rpy"
         }
     }
 }
