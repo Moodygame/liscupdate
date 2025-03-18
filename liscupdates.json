@@ -1,30 +1,30 @@
 {
-    "latest_version": "1.1.0",
-    "update_notes": "Bu güncelleme, script.rpy dosyasında bazı iyileştirmeler içeriyor:\n\n- Diyalog hataları düzeltildi\n- Bazı yeni diyaloglar eklendi\n- Performans iyileştirmeleri yapıldı",
-    "download_url": "",
-    "modified_files": ["game/script.rpy", "game/myconfig.rpy"],
-    "file_ids": {
-        "game/script.rpy": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
-        "game/myconfig.rpy": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF"
+  "latest_version": "1.1.0",
+  "update_notes": "Bu güncelleme, script.rpy dosyasında bazı iyileştirmeler içeriyor:\n\n- Diyalog hataları düzeltildi\n- Bazı yeni diyaloglar eklendi\n- Performans iyileştirmeleri yapıldı",
+  "download_url": "",
+  "modified_files": ["game/script.rpy", "game/myconfig.rpy"],
+  "file_ids": {
+    "game/script.rpy": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
+    "game/myconfig.rpy": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF"
+  },
+  "download_sources": {
+    "gdrive": "https://drive.google.com/uc?export=download&id=",
+    "mega": "https://mega.nz/file/",
+    "dropbox": "https://www.dropbox.com/scl/fi/",
+    "github": "https://raw.githubusercontent.com/Moodygame/liscupdate/main/files/"
+  },
+  "file_source_order": ["gdrive", "dropbox", "mega", "github"],
+  "file_source_map": {
+    "game/script.rpy": {
+      "gdrive": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
+      "mega": "RuonBSha#dWPSpQNP__KkjvfI8aQ39KU0uMmpJNxbrKqej3bJ2X4",
+      "dropbox": "fx4wvgsnrabs01wdqdb8v/script.rpy?rlkey=c3271fo70tnhsued0ksl97f48&dl=1"
     },
-    "download_sources": {
-        "gdrive": "https://drive.google.com/uc?export=download&id=",
-        "mega": "https://mega.nz/file/",
-        "dropbox": "https://www.dropbox.com/scl/fi/",
-        "github": "https://raw.githubusercontent.com/Moodygame/liscupdate/main/files/"
-    },
-    "file_source_order": ["gdrive", "dropbox", "mega", "github"],
-    "file_source_map": {
-        "game/script.rpy": {
-            "gdrive": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
-            "mega": "RuonBSha#dWPSpQNP__KkjvfI8aQ39KU0uMmpJNxbrKqej3bJ2X4",
-            "dropbox": "fx4wvgsnrabs01wdqdb8v/script.rpy?rlkey=c3271fo70tnhsued0ksl97f48&dl=1"
-        },
-        "game/myconfig.rpy": {
-            "gdrive": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
-            "mega": "BnpzgZwa#LqxA6aVVi3WH1QyeHZY5OE4o7cbj3ltSUtUexKIR49g",
-            "dropbox": "qki6b744dnlruqnjcc2pa/myconfig.rpy?rlkey=rx6feznvoamr9se5nnfjtxn87&st=0wja46ao&dl=1",
-            "github": "myconfig.rpy"
-        }
+    "game/myconfig.rpy": {
+      "gdrive": "1yMlWWdz-SvDi3DJK2TGjLe6YISFbwDtF",
+      "mega": "BnpzgZwa#LqxA6aVVi3WH1QyeHZY5OE4o7cbj3ltSUtUexKIR49g",
+      "dropbox": "qki6b744dnlruqnjcc2pa/myconfig.rpy?rlkey=rx6feznvoamr9se5nnfjtxn87&st=0wja46ao&dl=1",
+      "github": "myconfig.rpy"
     }
+  }
 }
